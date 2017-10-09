@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi there,
+
+My name is Lukasz and I'm from Poland.
